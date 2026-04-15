@@ -1,0 +1,67 @@
+﻿  food.cpp
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\food.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(13,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(17,39): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(19,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\predator.h(8,43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\predator.h(10,38): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\main.cpp(321,66): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\main.cpp(325,85): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\main.cpp(329,89): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  predator.cpp
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(13,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'predator.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(17,39): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'predator.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(19,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'predator.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\predator.h(8,43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'predator.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\predator.h(10,38): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'predator.cpp')
+  
+  prey.cpp
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(13,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'prey.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(17,39): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'prey.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(19,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'prey.cpp')
+  
+  random.cpp
+  states.cpp
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\states.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(13,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'states.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(17,39): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'states.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\prey.h(19,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'states.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\predator.h(8,43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'states.cpp')
+  
+C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\OPENGL_tutorial\predator.h(10,38): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'states.cpp')
+  
+  Generating Code...
+  OPENGL_tutorial.vcxproj -> C:\Users\kesha\OneDrive\Documents\OPENGL_tutorial\x64\Debug\OPENGL_tutorial.exe
